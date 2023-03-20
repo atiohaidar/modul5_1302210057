@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\bin\Debug\net7.0\modul5_1302210057.exe
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\bin\Debug\net7.0\modul5_1302210057.deps.json
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\bin\Debug\net7.0\modul5_1302210057.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\bin\Debug\net7.0\modul5_1302210057.dll
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\bin\Debug\net7.0\modul5_1302210057.pdb
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.dll
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\refint\modul5_1302210057.dll
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.pdb
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\modul5_1302210057.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\modul5_1302210057\obj\Debug\net7.0\ref\modul5_1302210057.dll
